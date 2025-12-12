@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Jin's Dev Note # the main title
 
-tagline: 하기로 마음 먹었다면 <bar>
+tagline: 하기로 마음 먹었다면 <br>
          행동으로 옮겨라! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
