@@ -100,9 +100,7 @@ jupyter kernelspec uninstall [kernel_name]
 > step 2. jupyter notebook 내 커널 변경  
 > step 3. 코드 수정
 >
-> <mark>
->   따라서, jupyter notebook 가상환경을 이용한 작업 시 kernel을 추가해두면 수정이 편리하다..!
-> </mark>
+> <mark>따라서, jupyter notebook 가상환경을 이용한 작업 시 kernel을 추가해두면 수정이 편리하다..!</mark>
 
 
 
